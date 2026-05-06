@@ -22,4 +22,4 @@ const ChatLabel = ({openMenu,setOpenMenu}) => {
   )
 }
 
-export default ChatLabel
+export default ChatLabel;
