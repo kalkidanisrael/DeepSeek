@@ -29,9 +29,8 @@ const PromptBox = ({isLoading,setIsLoading}) => {
             </button>
     </div>
    </div>
-
    </form>
   )
 }
 
-export default PromptBox
+export default PromptBox;

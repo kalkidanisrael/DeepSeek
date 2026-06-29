@@ -21,5 +21,4 @@ const ChatLabel = ({openMenu,setOpenMenu}) => {
     </div>
   )
 }
-
 export default ChatLabel;
